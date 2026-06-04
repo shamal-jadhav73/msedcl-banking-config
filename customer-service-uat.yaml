@@ -16,7 +16,7 @@ logging:
 build:
     version: "2.0"
 Customer:
-    message: "Welcome to Msedcl bank Customer related REST API--uat===<-AFTER REFRESH-->====="
+    message: "Welcome to Msedcl bank Customer related REST API"
     contactDetails: 
       name: "Pooja"
       email: "pooja@msedcl.in"
