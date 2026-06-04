@@ -14,7 +14,7 @@ logging:
 build:
     version: "2.0"
 customer:
-  message: "Welcome to Msedcl bank Transaction related REST API--UAT"
+  message: "Welcome to Msedcl bank Transaction related REST API--UAT<===AFter Refresh===>"
   contactDetails:
     name: "Vishakha"
     email: "vishakha@msedcl.in"
